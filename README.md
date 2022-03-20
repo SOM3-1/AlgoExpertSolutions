@@ -12,7 +12,7 @@ o/p: 20
 
 First sort it
 
-# THERE IS A PATETRN , if the added sum+1 is less than next value then return added sum+1;
+# THERE IS A PATTERN , if the added sum+1 is less than next value then return added sum+1;
 
 Lets take above example
 
